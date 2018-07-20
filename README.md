@@ -8,5 +8,6 @@ It has been tested to work successfully with Unison 2.51.2 (the latest public re
 
 ``` bash
 curl -o /usr/local/bin/unison-fsmonitor https://raw.githubusercontent.com/debajit/unison-fsmonitor-mac/master/unox-python3.py
+
 chmod +x /usr/local/bin/unison-fsmonitor
 ```
